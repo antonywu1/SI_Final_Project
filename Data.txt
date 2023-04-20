@@ -1,0 +1,50 @@
+Average New Covid Cases and Expedia Price Changes in 2020: 
+
+January: 
+Average Cases Per Day: 0.5
+Average Expedia Price Change Per Day: -0.179175
+
+February: 
+Average Cases Per Day: 0.47368421052631576
+Average Expedia Price Change Per Day: 0.23921052631578957
+
+March: 
+Average Cases Per Day: 6253.045454545455
+Average Expedia Price Change Per Day: 0.3426681818181817
+
+April: 
+Average Cases Per Day: 30031.238095238095
+Average Expedia Price Change Per Day: 0.1436904761904762
+
+May: 
+Average Cases Per Day: 23700.15
+Average Expedia Price Change Per Day: 0.275
+
+June: 
+Average Cases Per Day: 28851.045454545456
+Average Expedia Price Change Per Day: 0.316359090909091
+
+July: 
+Average Cases Per Day: 62941.045454545456
+Average Expedia Price Change Per Day: 0.1456363636363636
+
+August: 
+Average Cases Per Day: 49258.76190476191
+Average Expedia Price Change Per Day: 0.33
+
+September: 
+Average Cases Per Day: 40567.28571428572
+Average Expedia Price Change Per Day: -0.9540476190476189
+
+October: 
+Average Cases Per Day: 64221.63636363636
+Average Expedia Price Change Per Day: -0.2809090909090909
+
+November: 
+Average Cases Per Day: 156122.6
+Average Expedia Price Change Per Day: 0.07750000000000004
+
+December: 
+Average Cases Per Day: 221347.36363636365
+Average Expedia Price Change Per Day: 0.13977272727272733
+
